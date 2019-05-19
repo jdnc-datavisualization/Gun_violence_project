@@ -1,21 +1,15 @@
 # Gun_violence_project
 
-This is a team project for MSIS 2629: Dashboards, Scorecards, and Visualization.
+This is a team project for **MSIS 2629: Dashboards, Scorecards, and Visualization**.
 
 This documentation includes:
 
-Data Exploration
+1.Data Exploration
+2.First Version
+3.Final Version
 
-First Version
-
-Final Version
-
-Contributors:
-
+**Contributors:**
 Xinran Li
-
 Xin Zou
-
 Chia-cheng Lin
-
 Jui-Chuan Ma
