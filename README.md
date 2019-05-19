@@ -4,11 +4,11 @@ This is a team project for **MSIS 2629: Dashboards, Scorecards, and Visualizatio
 
 This documentation includes:
 
-1.[Data Exploration](https://github.com/jdnc-datavisualization/Gun_violence_project/blob/master/Visualization_final_project_Data_Exploration.ipynb)
+* [Data Exploration](https://github.com/jdnc-datavisualization/Gun_violence_project/blob/master/Visualization_final_project_Data_Exploration.ipynb)
 
-2.First Version
+* First Version
 
-3.Reversed Version
+* Reversed Version
 
 **Contributors:**
 Xinran Li,
