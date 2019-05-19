@@ -6,9 +6,7 @@ This documentation includes:
 
 1.Data Exploration
 
-（2.First Version
 
-3.Final Version）
 
 **Contributors:**
 Xinran Li,
