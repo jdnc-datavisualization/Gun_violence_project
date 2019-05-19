@@ -6,7 +6,9 @@ This documentation includes:
 
 1.Data Exploration
 
+2.First Version
 
+3.Reversed Version
 
 **Contributors:**
 Xinran Li,
