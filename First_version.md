@@ -166,7 +166,7 @@ Suggestion 2: Parents suggestions to gun control group
 3. Requiring background checks on all gun sales so people exhibiting warning signs, minors, and people with dangerous histories can’t evade our gun laws and get their hands on guns.
 
 # Tableau Link  
-https://public.tableau.com/profile/xinran.li7719#!/vizhome/5F_15589161532350/V1
+https://public.tableau.com/profile/jason1420#!/vizhome/Gunviolencevisualization/V2?publish=yes
 
 # References  
 
