@@ -105,7 +105,7 @@ The motivation behind 64% of mass shooting incidents are emotional issues and th
 ### Data wrangling steps
 
 1. We started by looking online to find existing articles on mass shooting. We were interested to see what facts people find and see if we can either extend their analysis or complement it. 
-2. I was intrigued to see that in one half of mass shootings, the shooter had exhibited warning signs that they might harm themselves or others; furthermore, the majority of mass shootings were related to domestic or family violence. Eighty-six percent of mass shooting child fatalities were the results of these incidents (Everytown Research, 2018).
+2. We were intrigued to see that in one half of mass shootings, the shooter had exhibited warning signs that they might harm themselves or others; furthermore, the majority of mass shootings were related to domestic or family violence. Eighty-six percent of mass shooting child fatalities were the results of these incidents (Everytown Research, 2018).
 3. We have a variable called "Cause" in our mass-shooting dataset. Some common values you see in this column are "psycho", "terrorism", "domestic dispute", etc. We thought it was appropriate to create another variable called "Motivation" based on this variable.  
 
 ### Analysis  
