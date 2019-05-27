@@ -100,7 +100,7 @@ The narrative story we are telling is for [National PTA](https://www.pta.org/hom
 
 ## Finding 1
 The motivation behind 64% of mass shooting incidents are emotional issues and the rest is political.  
-![](Finding_1.png)
+![](finding_1.png)
 
 ### Data wrangling steps
 
