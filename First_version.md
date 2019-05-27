@@ -129,7 +129,7 @@ Most victims are killed in the close area which means inside the building, such 
 ![](finding3.png)
 
 ### Data wrangling steps  
-1. In order to figure out why kids is the most injury group, we decide to explore more on mass shooting dataset. We tried the relationship between State and total victim numbers, but quickly realized it might not the reason to cause kids is the biggest injured group.
+1. In order to figure out why minor is the most injury group, we decide to explore more on mass shooting dataset. We tried the relationship between State and total victim numbers, but quickly realized it might not the reason to cause kids is the biggest injured group.
 2. Becasue many mass shooting happened in church or school, we assume that location might be a reason to cause the problem.
 3. We rename open and close area to different names which are inside building and outside building to help audience better understanding the graph.
 4. By ploting location into Tableau, we have a suprised finding that close area has much higher number of victims than close area.  
