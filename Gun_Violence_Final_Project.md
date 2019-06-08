@@ -1199,7 +1199,7 @@ c. Raise the firearms sales tax and establish a safe campus program that uses pa
 
 
 # 7. Tableau Link
-
+https://public.tableau.com/profile/nina.zou#!/vizhome/GunViolenceIsAffectingYourChildrenMoreThanEver/V2?publish=yes
 
 ```python
 
