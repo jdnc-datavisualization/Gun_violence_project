@@ -1197,7 +1197,6 @@ c. Raise the firearms sales tax and establish a safe campus program that uses pa
 
 3. Kerry Shaw, "14 Facts That Show How Gun Violence Affects American Kids",https://www.thetrace.org/2017/07/gun-violence-america-children-kids-facts/  
 
-4. ideastream. 17 May 2019, www.ideastream.org/news/are-school-shootings-becoming-more-frequent-we-ran-the-numbers. 
-
+4. Melgar, Luis. "Are School Shootings Becoming More Frequent? We Ran The Numbers." ideastream, www.ideastream.org/news/are-school-shootings-becoming-more-frequent-we-ran-the-numbers.
 # 7. Tableau Link  
 https://public.tableau.com/profile/nina.zou#!/vizhome/GunViolenceIsAffectingYourChildrenMoreThanEver/V2?publish=yes
