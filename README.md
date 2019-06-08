@@ -8,7 +8,7 @@ This documentation includes:
 
 * [First Version](https://github.com/jdnc-datavisualization/Gun_violence_project/blob/master/First_version.md)
 
-* Reversed Version
+* [Reversed Version](https://github.com/jdnc-datavisualization/Gun_violence_project/blob/master/Gun_Violence_Final_Project.md)
 
 **Contributors:**
 Xinran Li,
